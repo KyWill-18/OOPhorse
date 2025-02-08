@@ -1,6 +1,6 @@
 # OOPhorse
 ```
-## Class Horse -> header file
+### Class Horse -> header file
     private:
             int position
             int trackLength
@@ -14,14 +14,14 @@
             bool isWinner();
 -----------------------------------------------------
 
-## Class Race -> header file
+### Class Race -> header file
     private:
             const int TRACK_LENGTH
             const int NUM_HORSES
             Horse horses[]
 
 
-## main()
+### main()
     Race()
     Race.run()
           
